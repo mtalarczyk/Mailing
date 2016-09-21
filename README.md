@@ -1,5 +1,4 @@
 # Mailing
-Simple mailing template.
-Applied technologies:
-* HTML
-* CSS
+Simple mailing template. See a [demo](https://mtalarczyk.github.io/Mailing/).
+
+
